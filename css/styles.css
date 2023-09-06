@@ -1,5 +1,5 @@
 /* External Fonts */
-@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;700&display=swap");
 
 /* Colors */
 :root {
@@ -46,8 +46,8 @@ body {
 }
 
 html {
-  font-size: 50%;
-  font-family: "Rubik", sans-serif;
+    font-size: 50%;
+    font-family: "Quicksand", sans-serif;
 }
 
 body {
